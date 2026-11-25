@@ -11,6 +11,8 @@
 |---|---|
 | ![](docs/assets/selected.png) | ![](docs/assets/tree.png) |
 
+> **¿Buscas hablar con Claude en el espacio 3D?** Eso es [Prisma](https://vxtop.github.io/prisma/), un proyecto aparte que nace de vxtop. vxtop solo observa.
+
 ## Para qué
 
 Un explorador de archivos enseña *dónde* están las cosas. vxtop enseña *qué está pasando*: qué carpetas se escriben, qué programa las toca, qué lee o edita un agente de IA, y cuánto pesa y qué antigüedad tiene todo, de un vistazo, en un espacio que se gira, se acerca y se pulsa.
