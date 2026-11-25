@@ -3,7 +3,7 @@
 
 **Un observatorio 3D de tu equipo, de solo lectura.** Cada carpeta es un cubo de 27 celdas, cada programa abierto otro cubo, y lo que se está usando *ahora mismo* se enciende y se mueve: lo que haces tú, lo que hacen otros programas o lo que hace un agente de IA como Claude Code.
 
-[Read in English](README.en.md) · [Guía completa](docs/guia.md) · [Arquitectura](docs/arquitectura.md)
+**Español** · [English](README.en.md) · [Guía completa](docs/guia.md) · [Arquitectura](docs/arquitectura.md)
 
 ![vxtop: carpetas y programas como cubos, en vivo](docs/assets/demo.gif)
 

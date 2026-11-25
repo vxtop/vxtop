@@ -3,7 +3,7 @@
 
 **A read-only 3D observatory of your computer.** Every folder is a cube of 27 cells, every open program another cube, and what is being used *right now* lights up and moves — by you, by other programs, or by an AI agent such as Claude Code.
 
-[Leer en español](README.md) · [Guía (ES)](docs/guia.md) · [Guide (EN)](docs/en/guide.md) · [Architecture](docs/architecture.md)
+[Español](README.md) · **English** · [Guía (ES)](docs/guia.md) · [Guide (EN)](docs/en/guide.md) · [Architecture](docs/architecture.md)
 
 ![vxtop: folders and programs as cubes, live](docs/assets/demo.gif)
 
